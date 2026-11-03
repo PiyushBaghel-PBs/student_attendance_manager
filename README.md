@@ -19,6 +19,6 @@ A lightweight, menu-driven Python 3 console application designed to manage stude
 ```text
 student-attendance-manager/
 │
-├── attendance_manager.py   # Main Python source code
+├── one.py   # Main Python source code
 ├── attendance.txt          # File storage for student records (auto-generated)
 └── README.md               # Project documentation
